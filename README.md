@@ -1,4 +1,10 @@
+
+
 For start project need run: 
+```
+# cp ./.env ./.env.local
+```
+If you need, change APP_ENV=prod to APP_ENV=dev
 ```
 # sudo make
 ```
