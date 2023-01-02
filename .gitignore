@@ -1,4 +1,7 @@
 #
+.idea
+
+#
 /.certbot
 /.docker/mysql
 
