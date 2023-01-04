@@ -1,4 +1,7 @@
-
+<p align="center">
+    <h1 align="center">Symfony 5.4 with deployment automation</h1>
+    <br>
+</p>
 
 For start project need run: 
 ```
